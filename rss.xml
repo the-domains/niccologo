@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[niccologo]]></title>
         <description><![CDATA[niccologo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/niccologo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 07:50:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 08:16:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niccologo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Pick your teams. In the world of sport and life, you either pick a team or a team picks you. Danny, Alyssa, and I (Team Joaquin Around) hung out with The Fire Squad a Supporters' Group for the Fresno Fuego, and it was an introduction into the revelry that is soccer or football (as the rest of the world calls it. Like the drummers, flag bearers, and trumpeters of the Roman Legions, this group was a fierce fan force. </p>]]></description>
-            <link>undefinedpick-your-teams-in-the-world-of-sport-and-life-you-either/index.html</link>
+            <title><![CDATA[Pick Your Team]]></title>
+            <description><![CDATA[<article><h1>Pick Your Team</h1><p>Pick your team(s). In the world of sport and life, you either pick a team or a team picks you. Danny, Alyssa, and I (Team Joaquin Around) hung out with The Fire Squad a Supporters' Group for the Fresno Fuego, and it was an introduction into the revelry that is soccer or football (as the rest of the world calls it. Like the drummers, flag bearers, and trumpeters of the Roman Legions, this group is a fierce force. This core group of 200+ understand the importance of the invisible 12th man on the pitch. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2c86944ec0edf7bf9bce6881aee3b355b396d09.jpg"></article>]]></description>
+            <link>https://thegrid.ai/niccologo/pick-your-teams-in-the-world-of-sport-and-life-you-either/index.html</link>
             <guid isPermaLink="false">37b7dbfc-878a-4b51-8e5a-90be781f6ea4</guid>
-            <pubDate>Tue, 10 May 2016 07:49:36 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 08:16:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
